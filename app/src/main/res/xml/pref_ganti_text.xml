@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+                  android:title="Ganti Text Banjir">
+    <PreferenceCategory android:title="Ganti Text">
+        <EditTextPreference android:key="gantiTextOmbak" android:title="Text" android:summary="Mengganti Text" android:dialogTitle="Masukkan Text"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Ganti Ukuran Text">
+        <EditTextPreference android:key="gantiUkuranOmbak" android:title="Ukuran" android:summary="Mengganti Ukuran Text" android:dialogTitle="Masukkan Nilai" android:inputType="number"/>
+    </PreferenceCategory>
+
+</PreferenceScreen>
