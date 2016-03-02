@@ -1,5 +1,6 @@
 #TextKebanjiran
 Custom TextView Banjir :v
+thanks to Roman Piel for Titanic Library
 
 #Kode :
 ```
@@ -20,4 +21,5 @@ https://raw.githubusercontent.com/suyonoion/TextKebanjiran/master/app/%5Bguide%5
 https://raw.githubusercontent.com/suyonoion/TextKebanjiran/master/app/txt_banjir_demo.apk
 
 #credit :
-Suyonoion
+- Roman Piel : https://github.com/RomainPiel/Titanic
+- Suyonoion
